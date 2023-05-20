@@ -1,0 +1,17 @@
+.p {
+    font-size: small;
+}
+
+.body {
+    overflow-x: hidden;
+}
+
+.admin-button {
+    /* background-color: red; */
+    cursor: pointer;
+}
+
+.admin-button :hover {
+    background-color: #ccc;
+    border-radius: 6px;
+}
